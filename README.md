@@ -14,3 +14,7 @@
  <p align="center">🎸 Гитары</p>
  <p align="center">🧘‍♂️ Йога</p>
  <p align="center">🐱 Котики</p>
+
+[telegram]: https://t.me/evoak
+[instagram]: https://www.instagram.com/ev.oak
+[git]: https://github.com/sergey-skrylev

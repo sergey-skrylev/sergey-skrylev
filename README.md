@@ -11,9 +11,7 @@ DB: PostgreSQL, Sequelize ORM
 
 
 <h2 align="center">👨🏻‍💻 Я люблю: </h2>
-<p align="center">
- <p>🎸 Гитары</p>
- <p>🖥️ Программирование</p>
- <p>🧘‍♂️ Йога</p>
- <p>🐱 Котики</p>
-</p>
+ <p align="center">🎸 Гитары</p>
+ <p align="center">🖥️ Программирование</p>
+ <p align="center">🧘‍♂️ Йога</p>
+ <p align="center">🐱 Котики</p>

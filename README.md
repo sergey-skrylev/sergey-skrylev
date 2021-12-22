@@ -17,6 +17,6 @@
 
 <h2 align="center">🐱 Мой котик 🐱</h2>
 <p align='center'>
-<img src="./image/my-cat.gif" style='height: 300px;'></img>
+<img src="./image/my-cat.gif" style='height: 220px;'></img>
 </p>
 

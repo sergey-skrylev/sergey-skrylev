@@ -15,8 +15,8 @@
  <p align="center">🧘‍♂️ Йога</p>
  <p align="center">🐱 Котики</p>
 
-<!-- [telegram]: https://t.me/evoak
-[instagram]: https://www.instagram.com/ev.oak
-[git]: https://github.com/sergey-skrylev
- -->
- https://media0.giphy.com/media/w8fnx5LCHrpmalm1cm/giphy.gif
+<h2 align="center">My Cat</h2>
+<p align='center'>
+<img src="./image/my-cat.gif" style='height: 600px;'></img>
+</p>
+

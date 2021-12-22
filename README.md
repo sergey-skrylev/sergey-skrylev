@@ -15,8 +15,8 @@
  <p align="center">🧘‍♂️ Йога</p>
  <p align="center">🐱 Котики</p>
 
-<h2 align="center">My Cat</h2>
+<h2 align="center">🐱 Мой КОТ 🐱</h2>
 <p align='center'>
-<img src="./image/my-cat.gif" style='height: 600px;'></img>
+<img src="./image/my-cat.gif" style='height: 300px;'></img>
 </p>
 

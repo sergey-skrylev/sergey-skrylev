@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥 Привет! Я - Сергей, Frontend разработчик! 🔥</h1>
 
-<h2 align="center"> 🔧 Мой стэк технологий: </h2>
+<h2 align="center"> Мой стэк технологий: </h2>
 
 <h3 align="center">Frontend:</h3>
 <p align="center">JS, React, Redux (Saga), HTML5, CSS3, Material UI, Bootstrap</p>
@@ -15,7 +15,7 @@
  <p align="center">🧘‍♂️ Йога</p>
  <p align="center">🐱 Котики</p>
 
-<h2 align="center">🐱 Мой КОТ 🐱</h2>
+<h2 align="center">🐱 Мой котик 🐱</h2>
 <p align='center'>
 <img src="./image/my-cat.gif" style='height: 300px;'></img>
 </p>

@@ -3,7 +3,7 @@
 <h2 align="center"> Мой стэк технологий: </h2>
 
 <h3 align="center">Frontend:</h3>
-<p align="center">JS, React, Redux (Saga,Thunk), HTML5, CSS3, Material UI, Bootstrap, Gulp, Styled Components</p>
+<p align="center">JS, React, Redux (Saga,Thunk), HTML5, CSS3, SCSS, Material UI, Bootstrap, Gulp, Styled Components</p>
 <h3 align="center">Backend:</h3>
 <p align="center">Node.js, Express</p>
 <h3 align="center">DB:</h3>

@@ -1,6 +1,6 @@
 <h1 align="center"> 🔥 Hello Stranger! Nice to see you here! 🔥</h1>
-
-<h2 align="center"> Мой стэк технологий: </h2>
+<h2 align="center"> My name is Sergey and I'm Frontend Developer </h2>
+<h2 align="center"> Skills: </h2>
 
 <h3 align="center">Frontend:</h3>
 <p align="center">JS, React, Redux (Saga,Thunk), HTML5, CSS3, SCSS, Material UI, Bootstrap, Gulp, Styled Components</p>

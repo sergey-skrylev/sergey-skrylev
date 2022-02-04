@@ -1,6 +1,6 @@
-<h1 align="center"> 🔥 Hello Stranger! Nice to see you here! 🔥</h1>
+<!-- <h1 align="center"> 🔥 Hello Stranger! Nice to see you here! 🔥</h1>
 <h2 align="center"> My name is Sergey and I'm Frontend Developer </h2>
-<h2 align="center"> Skills: </h2>
+<h2 align="center"> Skills: </h2> -->
 
 <h3 align="center">Frontend:</h3>
 
@@ -26,11 +26,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-<div align="center">
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-</div>
 
 <h2 align="center">Also I like: </h2>
  <p align="center">🖥️ Coding</p>

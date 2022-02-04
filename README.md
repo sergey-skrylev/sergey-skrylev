@@ -9,9 +9,11 @@
 <h3 align="center">DB:</h3>
 <p align="center">PostgreSQL, Sequelize ORM</p>
 
-<h2 align="center">👨🏻‍💻 Also I like: </h2>
+<h2 align="center">Also I like: </h2>
  <p align="center">🖥️ Coding</p>
+ <p align="center">👾 New Technologies</p>
  <p align="center">🎸 Guitars</p>
+
  <p align="center">🧘‍♂️ Yoga</p>
  <p align="center">🐱 Cats</p>
 

@@ -34,11 +34,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-[![codewars](https://www.codewars.com/users/evoak/badges/large)](https://www.codewars.com/users/evoak)
-
-<h2 align="center">🐱 My Siamese Friend 🐱</h2>
-<p align='center'>
-<img src="./image/my-cat.gif" style='height: 300px;'></img>
-</p>
-

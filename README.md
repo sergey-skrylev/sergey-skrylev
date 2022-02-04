@@ -3,6 +3,10 @@
 <h2 align="center"> Skills: </h2>
 
 <h3 align="center">Frontend:</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 <p align="center">JS, React, Redux (Saga,Thunk), HTML5, CSS3, SCSS, Material UI, Bootstrap, Gulp, Styled Components</p>
 <h3 align="center">Backend:</h3>
 <p align="center">Node.js, Express</p>

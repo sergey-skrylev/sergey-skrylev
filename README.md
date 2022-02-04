@@ -36,7 +36,8 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-skrylev)](https://github.com/sergey-skrylev/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/evoak/badges/large)](https://www.codewars.com/users/evoak)
 
 <h2 align="center">Also I like: </h2>
  <p align="center">🖥️ Coding</p>

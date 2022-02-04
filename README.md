@@ -9,13 +9,13 @@
 <h3 align="center">DB:</h3>
 <p align="center">PostgreSQL, Sequelize ORM</p>
 
-<h2 align="center">👨🏻‍💻 Я люблю: </h2>
- <p align="center">🖥️ Программирование</p>
- <p align="center">🎸 Гитары</p>
- <p align="center">🧘‍♂️ Йога</p>
- <p align="center">🐱 Котики</p>
+<h2 align="center">👨🏻‍💻 Also I like: </h2>
+ <p align="center">🖥️ Coding</p>
+ <p align="center">🎸 Guitars</p>
+ <p align="center">🧘‍♂️ Yoga</p>
+ <p align="center">🐱 Cats</p>
 
-<h2 align="center">🐱 Мой котик 🐱</h2>
+<h2 align="center">🐱 My Siamese Friend 🐱</h2>
 <p align='center'>
 <img src="./image/my-cat.gif" style='height: 300px;'></img>
 </p>

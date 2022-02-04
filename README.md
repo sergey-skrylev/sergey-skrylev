@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥 Привет! Я - Сергей, Frontend разработчик! 🔥</h1>
+<h1 align="center"> 🔥 Hello Stranger! Nice to see you here! 🔥</h1>
 
 <h2 align="center"> Мой стэк технологий: </h2>
 

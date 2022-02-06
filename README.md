@@ -1,4 +1,4 @@
-<h1 align="center"> 🔥 Hello Stranger! Nice to see you here! 🔥</h1>
+<h1 align="center"> 🔥 Hello Stranger! 🔥</h1>
 <h2 align="center"> My name is Sergey and I'm Frontend Developer </h2>
 
 <h3>Frontend:</h3>
